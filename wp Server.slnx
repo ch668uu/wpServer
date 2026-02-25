@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="info" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="wp Server.csproj" />
+</Solution>
